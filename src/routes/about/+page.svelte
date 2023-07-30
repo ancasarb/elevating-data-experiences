@@ -10,7 +10,7 @@
 					<br class="block sm:hidden" />based in London.
 				</p>
 				<p class="max-w-lg mt-3 text-xl leading-relaxed text-gray-600 md:mt-8">
-					Up until now, the core of my work has focused on designing and implementing solutions that
+					Up until now, the core of my work has focused on designing and implementing tools and infrastructure that
 					improve AI/ML insights and methodologies for data scientists. It routinely involves
 					creating and deploying high-performance APIs and robust and dependable data processing
 					jobs at scale, ensuring reliable monitoring and logging practices are in place.
@@ -32,7 +32,7 @@
 				</p>
 				<p class="max-w-lg mt-3 text-xl leading-relaxed text-gray-600 md:mt-8">
 					My goal is to transition my focus towards working more creatively, with text and figures -
-					to start experimenting with developing intuitive data exploration and visualisation tools
+					to start experimenting with building intuitive data exploration and visualisation tools
 					that enable users to analyse complex data at scale. I am particularly interested in
 					understanding how automation, scalability and interactivity can elevate data experiences.
 				</p>
