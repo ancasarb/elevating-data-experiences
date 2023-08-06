@@ -10,10 +10,11 @@
 					<br class="block sm:hidden" />based in London.
 				</p>
 				<p class="max-w-lg mt-3 text-xl leading-relaxed text-gray-600 md:mt-8">
-					Up until now, the core of my work has focused on designing and implementing tools and infrastructure that
-					improve AI/ML insights and methodologies for data scientists. It routinely involves
-					creating and deploying high-performance APIs and robust and dependable data processing
-					jobs at scale, ensuring reliable monitoring and logging practices are in place.
+					Up until now, the core of my work has focused on designing and implementing tools and
+					infrastructure that improve AI/ML insights and methodologies for data scientists. It
+					routinely involves creating and deploying high-performance APIs and robust and dependable
+					data processing jobs at scale, ensuring reliable monitoring and logging practices are in
+					place.
 				</p>
 			</div>
 
@@ -50,6 +51,41 @@
 					>
 				</p>
 			</div>
+		</div>
+	</div>
+	<div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+		<div class="grid items-center grid-cols-1 md:grid-cols-2">
+			<div>
+				<p class="text-2xl font-bold leading-tight text-black mt-6">Projects</p>
+			</div>
+		</div>
+		<div class="grid grid-cols-3 gap-20">
+			<a href="/projects/internetspeed" title="Internet Speeds: Time to transfer 100MB">
+				<img
+					class="w-full h-full object-cover cursor-pointer"
+					src="/images/internet_speed.png"
+					alt="internet speed"
+				/>
+			</a>
+
+			<a
+				href="/projects/linkrot"
+				title="An examination of link rot within the New York Times website"
+			>
+				<img
+					class="w-full h-full object-cover cursor-pointer"
+					src="/images/linkrot.png"
+					alt="linkrot"
+				/>
+			</a>
+
+			<a href="/projects/passwords" title="Top 200 most common passwords">
+				<img
+					class="w-full h-full object-cover cursor-pointer"
+					src="/images/passwords.png"
+					alt="passwords"
+				/>
+			</a>
 		</div>
 	</div>
 </section>
