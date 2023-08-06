@@ -59,7 +59,7 @@
 				<p class="text-2xl font-bold leading-tight text-black mt-6">Projects</p>
 			</div>
 		</div>
-		<div class="grid grid-cols-3 gap-20">
+		<div class="grid grid-cols-1 md:grid-cols-3 gap-20 mb-5">
 			<a href="/projects/internetspeed" title="Internet Speeds: Time to transfer 100MB">
 				<img
 					class="w-full h-full object-cover cursor-pointer"
